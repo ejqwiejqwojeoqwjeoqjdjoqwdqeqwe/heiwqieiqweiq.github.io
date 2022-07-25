@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Deepred Network</title>
+    <link>https://deepred.club/</link>
+    <description>Recent content on Deepred Network</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Jul 2022 22:04:19 +0300</lastBuildDate><atom:link href="https://deepred.club/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello</title>
+      <link>https://deepred.club/posts/hello/</link>
+      <pubDate>Mon, 25 Jul 2022 22:04:19 +0300</pubDate>
+      
+      <guid>https://deepred.club/posts/hello/</guid>
+      <description>Hello World! Welcome to the Deepred site. There isn&amp;rsquo;t much to see here yet, but you can check out the about page for more information.</description>
+    </item>
+    
+    <item>
+      <title>Blacklisted Modifications</title>
+      <link>https://deepred.club/blacklist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://deepred.club/blacklist/</guid>
+      <description>In order to keep deepred fair and open to everyone, we have a blacklist of modifications that we determined to be an unfair advantage to vanilla players.
+What we allow Fate client Onix client
+What we don&amp;rsquo;t allow Zephyr client Horion
+Brush
+Strike
+Packet Client
+Chronos
+Cyan
+X-RAY texturepacks
+And many more&amp;hellip;
+How to determine if a modification is going to get you banned Ask yourself these questions:
+Does this give me an unfair advantage?</description>
+    </item>
+    
+    <item>
+      <title>Contacting us</title>
+      <link>https://deepred.club/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://deepred.club/contact/</guid>
+      <description>If you have encountered an issue or want to report a rulebreaker, please do it on our discord or contact us via email. Instructions for how to contact us are below.
+Discord Our discord is located at https://discord.gg/FwzP5DPMUa
+Email Our email is located at support@deepred.club</description>
+    </item>
+    
+    <item>
+      <title>Deepred</title>
+      <link>https://deepred.club/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://deepred.club/about/</guid>
+      <description>Hello there! Welcome to the one and only Deepred site.
+About us We are a passionate group of Minecraft fans who try making the MCBE server landscape a better place for everyone, without predatory pay-to-win server owners.
+Staff team We have a team of dedicated staff members who are always working to make the server a better place for everyone.
+Arian, Nic_ and the rest of the staff team are all here to help you if you need help.</description>
+    </item>
+    
+    <item>
+      <title>Ingame rules</title>
+      <link>https://deepred.club/guidelines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://deepred.club/guidelines/</guid>
+      <description>No spamming. Do not spam chat with your message. Once should be more than enough to get your point across.
+Respect &amp;amp; harrasment. We do not accept harassment regardless of circumstances. This is a serious offense which will get you banned.
+Unfair modifications. You are not allowed to use any sort of unfair modification, (e.g. Autoclicker). If you want to use a PVP client you are free to do so as long as it isn&amp;rsquo;t on our blacklist (https://deepred.</description>
+    </item>
+    
+  </channel>
+</rss>

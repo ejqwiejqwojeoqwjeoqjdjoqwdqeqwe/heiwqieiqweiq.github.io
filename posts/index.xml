@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Deepred Network</title>
+    <link>https://deepred.club/posts/</link>
+    <description>Recent content in Posts on Deepred Network</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Jul 2022 22:04:19 +0300</lastBuildDate><atom:link href="https://deepred.club/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello</title>
+      <link>https://deepred.club/posts/hello/</link>
+      <pubDate>Mon, 25 Jul 2022 22:04:19 +0300</pubDate>
+      
+      <guid>https://deepred.club/posts/hello/</guid>
+      <description>Hello World! Welcome to the Deepred site. There isn&amp;rsquo;t much to see here yet, but you can check out the about page for more information.</description>
+    </item>
+    
+  </channel>
+</rss>
